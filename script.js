@@ -1,6 +1,6 @@
 "use strict";
 
-const img_src = ["./1.jpg", "./2.jpg", "./3.jpg"];
+const img_src = ["./6.jpg", "./7.jpg", "./8.jpg"];
 let num = -1;
 
 function slide_time() {
