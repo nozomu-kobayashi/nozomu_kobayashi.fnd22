@@ -17,7 +17,14 @@ header {
 }
 
 img {
-    width: 100%;
+    width: 1500px;
+    height: 1000px;
+}
+
+#slide_img {
+    width: 96%;
+    height: 50%;
+    margin: 2%;
 }
 
 h2 {
