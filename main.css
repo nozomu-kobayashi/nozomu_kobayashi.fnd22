@@ -25,6 +25,18 @@ img {
     position: absolute;
 }
 
+#rule{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    width: 350px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
 button {
     position: absolute;
     top: 80%;
