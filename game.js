@@ -64,7 +64,7 @@ function fishCaughtComment() {
   const commentChild = getFishChild.appendChild(comment);
   for (let i = 0; i < fishSpecies.length; i++) {
     if(fishSpecies[i].Name === randomFish) {
-      fishImg.src = "./images/" + i + ".jpg";
+      fishImg.src = "./" + i + ".jpg";
       fishName.innerText = "釣れた魚：" + fishSpecies[i].Name;
       rarity.innerText = "レア度：" + fishSpecies[i].Rarity;
       comment.innerText = "コメント：" + fishSpecies[i].Explanation;
